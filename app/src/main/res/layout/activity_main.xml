@@ -13,7 +13,7 @@
 
     <LinearLayout
         android:layout_width="fill_parent"
-        android:layout_height="491dp"
+        android:layout_height="492dp"
         android:orientation="horizontal"
         android:weightSum="1">
 
